@@ -4,7 +4,7 @@
 A responsive front-end replica of the Netflix landing page, built using pure HTML and CSS. This project aims to mimic the visual design and layout of Netflix's home interface with pixel-perfect precision.
 
 ---
-
+![Homepage Preview](result/Screenshot%202025-07-29%20001304.png)
 ## 📌 Features
 
 - Static homepage design inspired by Netflix
@@ -23,10 +23,6 @@ A responsive front-end replica of the Netflix landing page, built using pure HTM
 - **Font Awesome** (optional for icons)
 
 ---
-
-## 🖼️ Preview
-
-![Homepage Preview](result/Screenshot%202025-07-29%20001304.png)
 
 
 ## 🚀 Getting Started
