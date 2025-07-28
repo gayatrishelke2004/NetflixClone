@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.main {
+    background-image: url("images/bg\ \(1\).jpg");
+    background-position: center center;
+    background-size: max(1200px, 100vw);
+    background-repeat: no-repeat;
+    height: 644px;
+    position: relative;
+}
+
+.main .box {
+    height: 644px;
+    width: 100%;
+    opacity: 0.69;
+    position: absolute;
+    top: 0;
+    background-color: black;
+}
+
+nav {
+    max-width: 60vw;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+nav img {
+    color: red;
+    width: 130px;
+    position: relative;
+    z-index: 10;
+}
+
+nav button {
+    position: relative;
+    justify-content: space-between;
+    font-weight: bolder;
+    font-size: medium;
+    z-index: 10;
+    border-radius: 15px;
+    width:100px;
+    height:50px;
+}
+.non
+{
+   background-color: #f8f3f305;
+   color:white;
+   border-radius: 4px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+.red
+{
+    background-color: red;
+    color:white;
+    border-radius: 4px;
+    border: 1px solid white;
+    cursor: pointer;
+
+}
+.hero
+{
+    height:40%;
+    width:40%;
+    border: 0cm;
+    justify-content: center;
+    background-color: black;
+    position: relative;
+    font-family:'Martel Sans', sans-serif;
+    top:40%;
+    left: 25%;
+    color:white;
+    text-align: center;
+}
+.hero :first-child
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
