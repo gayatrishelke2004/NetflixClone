@@ -26,7 +26,7 @@ A responsive front-end replica of the Netflix landing page, built using pure HTM
 
 ## 🖼️ Preview
 
-![Uploading Screenshot 2025-07-29 001304.png…]()
+![Homepage Preview](result/Screenshot 2025-07-29 001304.png)
 
 
 ## 🚀 Getting Started
